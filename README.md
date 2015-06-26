@@ -1,3 +1,5 @@
+[![](https://ci.solanolabs.com:443/Hired/stretchy/badges/branches/master?badge_token=062c34bcb84d3502662722bf76a8b4ec9fa073d9)](https://ci.solanolabs.com:443/Hired/stretchy/suites/246591)
+
 # Stretchy
 
 Stretchy is a query builder for [Elasticsearch](https://www.elastic.co/products/elasticsearch). It helps you quickly construct the JSON to send to Elastic, which can get [rather complicated](http://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl.html). 
@@ -254,9 +256,3 @@ After checking out the repo, run `bin/setup` to install dependencies. Then, run 
 To install this gem onto your local machine, run `bundle exec rake install`. To release a new version, update the version number in `version.rb`, and then run `bundle exec rake release` to create a git tag for the version, push git commits and tags, and push the `.gem` file to [rubygems.org](https://rubygems.org).
 
 ## Contributing
-
-1. Fork it ( https://github.com/[my-github-username]/stretchy/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
